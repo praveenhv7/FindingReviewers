@@ -1,0 +1,65 @@
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - Logger Loaded for further Logging
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - Logger Loaded for further Logging
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - Log4j appender configuration is successful !!
+[main] INFO  edu.ui.JavaFX_uiTabPane  - Inside Void Main
+[main] INFO  edu.ui.JavaFX_uiTabPane  - Inside Void Main
+[main] INFO  edu.ui.JavaFX_uiTabPane  - Inside Void Main
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - Logger Loaded for further Logging
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - Log4j appender configuration is successful !!
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - INFO
+[main] INFO  edu.ui.JavaFX_uiTabPane  - Inside Void Main
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - Logger Loaded for further Logging
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - Log4j appender configuration is successful !!
+[JavaFX Application Thread] INFO  edu.ui.JavaFX_uiTabPane  - INFO
+[JavaFX Application Thread] INFO  <clinit> edu.ui.JavaFX_uiTabPane  - Logger Loaded for further Logging
+[JavaFX Application Thread] INFO  start edu.ui.JavaFX_uiTabPane  - Log4j appender configuration is successful !!
+[JavaFX Application Thread] INFO  searchAuthorByConference edu.ui.JavaFX_uiTabPane  - INFO
+[main] INFO  main edu.ui.JavaFX_uiTabPane  - Inside Void Main
+[main] INFO  main edu.ui.JavaFX_uiTabPane  - Inside Void Main
+[JavaFX Application Thread] INFO  <clinit> edu.ui.JavaFX_uiTabPane  - Logger Loaded for further Logging
+[JavaFX Application Thread] INFO  start edu.ui.JavaFX_uiTabPane  - Log4j appender configuration is successful !!
+[JavaFX Application Thread] INFO  searchAuthorByConference edu.ui.JavaFX_uiTabPane  - INFO
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - getConferenceAuthors
+[main] INFO  main edu.ui.JavaFX_uiTabPane  - Inside Void Main
+[JavaFX Application Thread] INFO  getAuthorWithNPubs edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getCountOfJournalsAndConf edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorDetailsConferences edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorDetailsJournals edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getCoAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getJournalAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getCountOfJournalsAndConf edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorDetailsConferences edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorDetailsJournals edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getCoAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  delShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  addShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getCountOfJournalsAndConf edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorDetailsConferences edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorDetailsJournals edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getCoAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorWithNPubs edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getJournalAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getConferenceAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getCountOfJournalsAndConf edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorDetailsConferences edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getAuthorDetailsJournals edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getCoAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  addShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  delShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
+[JavaFX Application Thread] INFO  getShortListedAuthors edu.ui.JavaFX_uiTabPane  - ***************************
